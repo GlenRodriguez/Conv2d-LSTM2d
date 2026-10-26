@@ -2,3 +2,5 @@
 Ejemplo de prediccion de la siguiente imagen en una serie con CNN + LSTM
 
 Usamos el dataset público COIL-100
+
+Ver el notebook [aquí](https://github.com/GlenRodriguez/Conv2d-LSTM2d/blob/main/Generative01.ipynb)
